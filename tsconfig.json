@@ -1,5 +1,6 @@
 {
   "include": ["**/*.ts", "**/*.tsx", "eslint.config.js", "prettier.config.js", "vite.config.js"],
+  "exclude": ["node_modules", "dist", ".nuxt", "nuxt.config.ts"],
   
   "compilerOptions": {
     "target": "ES2022",
@@ -11,6 +12,8 @@
     },
     "lib": ["ES2022", "DOM", "DOM.Iterable"],
     "types": ["vite/client"],
+    "baseUrl": ".",
+    "ignoreDeprecations": "6.0",
 
     /* Bundler mode */
     "moduleResolution": "bundler",
