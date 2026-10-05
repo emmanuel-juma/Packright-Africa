@@ -24,7 +24,7 @@ const team = [
 
 const timeline = [
   { y: "2000", t: "Founded in Kikuyu Township", d: "Eng. Okumbe establishes Packright Africa as a family-driven corrugated converter." },
-  { y: "2008", t: "Architecting growth", d: "Eng. Clarkson Kelvin joins as Vice Chairperson and Company Architect." },
+  { y: "2008", t: "Architecting growth", d: "QS. Kelvin Odhiambo Okoth joins as Vice Chairperson and Company Architect." },
   { y: "2015", t: "Export specialization", d: "Focus on EPZ exporters — fresh-cut flowers and produce destined for EU markets via JKIA." },
   { y: "Today", t: "A new generation", d: "Tech-driven leadership in finance, inventory and marketing accelerates regional expansion." },
 ];
