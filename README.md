@@ -1,3 +1,5 @@
+![image alt](https://github.com/emmanuel-juma/My_portfolio/blob/a93222c9c2ff040e11417003b1baa424dcdb19da/assets/Screenshot%202026-10-05%20at%204.18.38%E2%80%AFPM.png)
+
 Welcome to your new TanStack Start app! 
 
 # Getting Started
